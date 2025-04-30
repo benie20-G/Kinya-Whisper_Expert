@@ -1,0 +1,3 @@
+kinya-whisper-model/checkpoint-*/
+config.bat
+node_modules
